@@ -12,7 +12,7 @@ console.log("Take me to your leader");
 
 # Aneirin
 
-<img src="images/aneirin_tn.svg" alt="Aneirin" width=100>
+<img src="images/aneirin_tn.svg" alt="Aneirin" width=100 style="float: right">
 
 Aneirin is the foremost expert of cold climates in planetoids universe-wide, with a particular inquisitiveness in areas colder than -300 F / - 184.4444444 C (hence the profound personal interest in knitting mittens). Having travelled extensively, Aneirin enjoys collecting, receiving, and sending distinctive postcards from all corners of the macrocosm.
 
@@ -32,7 +32,7 @@ Aneirin is the foremost expert of cold climates in planetoids universe-wide, wit
 
 # Celestia Dristi"
 
-<img src="images/celestia-dristi.svg" alt="Celestia" width=100>
+<img src="images/celestia-dristi.svg" alt="Celestia" width=100 style="float: right">
 
 As a mobility engineer, Celestia Dristi helps individuals and companies to improve personal and professional agility and growth in technology and systems. An expert in translating and implementing needs into functionality, Celestia Dristi has a unique proclivity for solving problems and helping to avoid future issues.
 
@@ -52,7 +52,7 @@ As a mobility engineer, Celestia Dristi helps individuals and companies to impro
 
 # Charmaine
 
-<img src="images/charmaine_tn.svg" alt="Charmaine" width=100>
+<img src="images/charmaine_tn.svg" alt="Charmaine" width=100 style="float: right">
 
 Charmaine loves fossils from every society and planet, and helping to piece together the stories they tell of an earlier time. Once completing university studies in paleontology with a minor in swimming arts, Charmaine immediately transitioned to working on the now-famous Dig of Pleoria.
 
@@ -72,7 +72,7 @@ Charmaine loves fossils from every society and planet, and helping to piece toge
 
 # Emmyloo, "em"
 
-<img src="images/emmyloo-em_tn.svg" alt="Emmyloo" width=100>
+<img src="images/emmyloo-em_tn.svg" alt="Emmyloo" width=100 style="float: right">
 
 If you look up “lexicography” in the dictionary, you will see a photo of Emmyloo. She claims that her devotion to lexicography began as early as two years old, when she spoke her first full sentence. Fluent in 94 languages, Emmyloo helps in analyzing relationships among words and the nuances of their meanings and relationships to other words.
 
@@ -92,7 +92,7 @@ If you look up “lexicography” in the dictionary, you will see a photo of Emm
 
 # Gill
 
-<img src="images/gill_tn.svg" alt="Gill" width=100>
+<img src="images/gill_tn.svg" alt="Gill" width=100 style="float: right">
 
 Gill carries on generations of tradition in his family as a hydrologist specializing in underground reservoirs of aquatic-based planetoids. Of note is his revolutionary studies in the adaptation and accumulation of life in estuaries and cenotes. He volunteers as an instructor in advanced swimming and walking to young Amphibians.
 
@@ -112,7 +112,7 @@ Gill carries on generations of tradition in his family as a hydrologist speciali
 
 # Ichabod
 
-<img src="images/ichabod_tn.svg" alt="Ichabod" width=100>
+<img src="images/ichabod_tn.svg" alt="Ichabod" width=100 style="float: right">
 
 Operations supervisor Ichabod is unwavering in adherence to the perfection of order and function. Using inborn impassiveness to distracting influences, Ichabod has led several teams to operational distinction with the advantage of being able to successfully teach precise hoverboard maneuverability.
 
@@ -132,7 +132,7 @@ Operations supervisor Ichabod is unwavering in adherence to the perfection of or
 
 # Laverne
 
-<img src="images/laverne_tn.svg" alt="Laverne" width=100>
+<img src="images/laverne_tn.svg" alt="Laverne" width=100 style="float: right">
 
 Laverne holds a degree in theoretical physics from Quantumnus University. Having interned for the great theoretical physicist, Bob, Laverne pursued a natural aptitude in understanding relationships among dissimilar measurable quantities to become the theoretical physics coordinator at Quantumnus U.
 
@@ -152,7 +152,7 @@ Laverne holds a degree in theoretical physics from Quantumnus University. Having
 
 # Mindigo, "Mindigogo"
 
-<img src="images/mindigo_tn.svg" alt="Mindigo" width=100>
+<img src="images/mindigo_tn.svg" alt="Mindigo" width=100 style="float: right">
 
 Transportation Technologist Mindigo earned the nickname “MindiGoGo” because of her tireless work in advanced travel and commodity conveyance. After earning a degree in transportation from Amethystopia’s premiere technical college, Mindigo quickly rolled up through company ranks from cargo hauler to conveyance savant. She is recipient of the coveted Presidential Medal of Moving Stuff.
 
@@ -172,7 +172,7 @@ Transportation Technologist Mindigo earned the nickname “MindiGoGo” because 
 
 # Nalda
 
-<img src="images/nalda_tn.svg" alt="Nalda" width=100>
+<img src="images/nalda_tn.svg" alt="Nalda" width=100 style="float: right">
 
 Autodidact Nalda began work as a mind reader and universal translator in 2288 when founding the non-profit, Interplanetary Understanders and Lie Detectors, LLC (IULD). Through IULD, Nalda has successfully helped several formerly feuding planetary governments to pause, recognize their similarities, and eventually understand what the other was actually saying, assisting in achieve lasting peace and collaboration.
 
@@ -192,7 +192,7 @@ Autodidact Nalda began work as a mind reader and universal translator in 2288 wh
 
 # Narf the Fourth
 
-<img src="images/narf-the-fourth_tn.svg" alt="Narf" width=100>
+<img src="images/narf-the-fourth_tn.svg" alt="Narf" width=100 style="float: right">
 
 Narf the Fourth (known to friends as ‘Norf’) oversees the manufacturing of astronomic spaceship accessories at Saucer & Rocket, Inc. Norf keeps an eye on all aspects of production quality, including managing several lower quality assurance specialists. Interests include jet-pack racing, bodybuilding, and volunteer baseball coach. Friends tell us that it’s not summer if you don't hear Norf yelling ”keep your eye on the ball!"
 
@@ -212,7 +212,7 @@ Narf the Fourth (known to friends as ‘Norf’) oversees the manufacturing of a
 
 # Portman
 
-<img src="images/portman_tn.svg" alt="Portman" width=100>
+<img src="images/portman_tn.svg" alt="Portman" width=100 style="float: right">
 
 No one loves animals, critters, varmints, and beasties as much as Dr. Portman, whether they are wild or a beloved pet. Leading a crew of superterrestrial veterinarians throughout the galaxy, Dr. Portman has discovered many antidotes for animal illnesses on a planetoid that can also be used successfully on other planetoids, and is working to expand the cross-distribution of these treatments and cures throughout the universe.
 
@@ -231,7 +231,7 @@ No one loves animals, critters, varmints, and beasties as much as Dr. Portman, w
 
 # Seymour
 
-<img src="images/seymour_tn.svg" alt="Seymour" width=100>
+<img src="images/seymour_tn.svg" alt="Seymour" width=100 style="float: right">
 
 | Name | Value |
 |**Planet of Origin** | Pepinos IV |
@@ -252,7 +252,7 @@ No one loves animals, critters, varmints, and beasties as much as Dr. Portman, w
 
 # Tomolor
 
-<img src="images/tomolor_tn.svg" alt="Tomolor" width=100>
+<img src="images/tomolor_tn.svg" alt="Tomolor" width=100 style="float: right">
 
 As a professional computer systems analyst, Tomolor has made history in adapting systems for countless organizations, increasing their overall efficiency by an average of 65%. An active member of the Beinghood of Bookery, Tomolor has authored several children’s books that explain how to flourish in their respective areas of interest so that they can most efficiently metamorphose into a career they love.
 
@@ -272,7 +272,7 @@ As a professional computer systems analyst, Tomolor has made history in adapting
 
 # Trisaphron
 
-<img src="images/trisaphron_tn.svg" alt="Trisaphron" width=100>
+<img src="images/trisaphron_tn.svg" alt="Trisaphron" width=100 style="float: right">
 
 Trisaphron earned a masters degree in practical operations from Omerania University after completing a bachelors of science in impractical mathematics. With a keen ability to watch and understand the nuances of cooperation among production robots, Trisaphron never hesitates to jump in and lend a hand or two or three to educate and improve procedures.
 
@@ -292,7 +292,7 @@ Trisaphron earned a masters degree in practical operations from Omerania Univers
 
 # Two
 
-<img src="images/two_tn.svg" alt="Two" width=100>
+<img src="images/two_tn.svg" alt="Two" width=100 style="float: right">
 
 With growing interest by organizations in expanding their business on multiple planets, Two finds that it is increasingly critical to focus on sustainability. As Two describes it, we can’t expect any business to be viable long-term if a planet and its beings aren’t well cared for. Currently stationed on Earth, Two enjoys collecting and studying lithium batteries.
 
@@ -312,7 +312,7 @@ With growing interest by organizations in expanding their business on multiple p
 
 # Violette
 
-<img src="images/violette_tn.svg" alt="Violette" width=100>
+<img src="images/violette_tn.svg" alt="Violette" width=100 style="float: right">
 
 Violette holds a doctorate degree in Planetary Behaviorism from Fouraluy University. She has been fascinated in researching the behavior of sentient beings as long as she can remember. She feels her experience in animal husbandry growing up on her family farm gave her a unique perspective in and appreciation for all life that drives and complements her current work as a behaviorist. She loves ballet, classic disco, and spending time with her 17 Earth chickens.
 
