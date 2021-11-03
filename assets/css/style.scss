@@ -1,4 +1,7 @@
-@import 'jekyll-theme-cayman';
+---
+---
+
+@import "{{ site.theme }}";
 
 .main-content h1 {
     color: purple !important;
