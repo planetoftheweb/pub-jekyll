@@ -1,5 +1,9 @@
 @import 'jekyll-theme-cayman';
 
 .main-content h1 {
-    color: purple;
+    color: purple !important;
+}
+
+b, strong {
+ color: red;   
 }
